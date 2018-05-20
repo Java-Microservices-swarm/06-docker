@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>hero-datamodel</artifactId>
+            <artifactId>hero-daomodel</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
